@@ -1,0 +1,299 @@
+/* p{
+   border: 90cm; 
+text-shadow: 60cm;
+}
+.Time{
+
+text-align: center;
+color: blue;
+} */
+
+
+/* .Rice:hover{
+background-color: aqua;
+
+
+} */s
+
+/* .Automobile{
+border: 2px solid black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-shadow:  8px 6px 3px;
+font-size: x-large;
+color: rgb(255, 0, 0);
+box-shadow: 25px;
+outline: 8px solid rgb(48, 33, 136);
+
+} */
+
+
+.navigation{
+display: inline;
+list-style-type: none;
+border: 1px solid rgb(236, 230, 230);
+padding: 4px;
+margin: 7px 13px;
+border-radius: 5px;
+}
+
+.navigation li{
+    display: inline;
+    list-style-type: none;
+    border: 1px solid rgb(236, 230, 230);
+    padding: 4px;
+    margin: 7px 13px;
+    border-radius: 5px;
+
+
+
+}
+
+.navigation li a{
+text-decoration: none;
+font-size: large;
+color: black;
+
+
+}
+
+
+a[hreflang]{
+    color: brown;
+text-align: left;
+
+}
+
+/* 
+body{
+background-image: url(1729054359915.jpg);
+background-repeat: no-repeat;
+background-size: 50%; */
+
+
+
+
+
+.copyright{
+text-align:right ;
+color: rgb(85, 209, 209);
+
+
+
+
+
+
+}
+
+
+h1{
+background-color: rgba(162, 195, 195, 0.976);
+color: rgb(68, 66, 79);
+text-align: center;
+
+
+}
+
+
+
+
+body{
+    background-color: rgb(197, 204, 203);
+}
+
+
+
+img{
+    border: 0.5px;
+    height: 10cm;
+    width: 10cm;
+    border-radius: 16%;
+    animation: infinite;
+    image-orientation: inherit;
+    align-items: center;
+}
+
+.Footer{
+display: grid;
+bottom: 0px;
+font-size: 13px;
+
+
+}
+
+.Footer div{
+background-color:  rgb(110, 106, 119);
+margin: 4px;
+padding:7px 13px ;
+border: 1px solid teal;
+border-radius: 17%;
+height: 3cm;
+width: 5cm;
+}
+
+ul{
+    margin-left: -10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+
+.mobile-nav{
+    background-color: #aaa;
+    color: teal;
+    padding: 5px;
+    width: 15%;
+    display: none; /* Hide mobile navigation*/
+}
+
+
+.mobile-nav ul li{
+    margin: 5px 3px;
+    border: 1px solid teal;
+    border-radius: 3px;
+
+}
+
+
+      /* desktop screen view */
+@media screen and (max-width: 1027){
+    .navigation{
+        border: 1px solid red;
+        background-color: white;
+        display: none;
+    }
+    -nav{
+        background-color: black;
+        color: aqua;
+        padding: 5px;
+        width: 15%;
+        display: none;  /* Hide Tablet navigation */
+   }
+
+
+
+
+
+}
+
+.Tablet-nav{
+     background-color: black;
+     color: aqua;
+     padding: 5px;
+     width: 15%;
+     display: none;  /* Hide Tablet navigation */
+}
+
+.Tablet-nav ul li{
+     margin: ;
+
+
+
+
+
+
+}
+
+/* Tablet: 670px */
+/* Mobile: 480px */
+
+/* Desktop: 1027px */
+/* Large Desktop: 1200px */
+
+
+
+/* Tablet Screen View */
+@media screen and (max-width: 670px) {
+
+    .navigation{
+        border: 1px solid red;
+        background-color: white;
+        display: none;
+    }
+
+
+
+
+
+    
+
+    
+.mobile-nav{
+    background-color: #aaa;
+    color: teal;
+    padding: 5px;
+    width: 15%;
+    display: block;
+} 
+
+
+
+    
+}
+/* Large Desktop Screen View  */
+@media screen and (max-width: 1200px) {
+   
+    /* .navigation{ 
+        border: 1px solid burlywood;
+        background-color: aqua;
+        display: none;
+
+    }
+
+     .largedesktop-nav{ 
+        color: gray;
+        background-color: aqua;
+        padding: 5px;
+        width: 13%;
+        display: block; */ 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+.Intro{
+    border: 2px solid  rgb(110, 106, 119);
+   border-radius: 10px;
+   padding: 7px 10px;
+   margin: 8px 17px;
+   text-align: justify
+   
+   }
+   
+   .Courses{
+   border: 2px solid  rgb(110, 106, 119);
+   border-radius: 10px;
+   padding: 7px 10px;
+   margin: 9px 19px;
+   text-align: justify;
+   }
+   
+   .We{
+   border: 2px solid rgb(110, 106, 119) ;
+   border-radius: 12px;
+   padding: 8px 12px;
+   margin: 10px 21px;
+   text-align: justify;
+   }
+   
+
+
+

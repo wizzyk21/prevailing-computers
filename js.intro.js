@@ -5,7 +5,7 @@
 
 // Array
 let data = [ "two" , 3, "four"]
-alert({0})
+// alert({0})
 // ARRAY METHOD
 let newData = data. push
 

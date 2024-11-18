@@ -23,7 +23,7 @@ const Account = new Bank("Lekwa" ,"3046712006" );
 
 
 
-<h1>WELCOME TO PREVAILING COMPUTER'S 💻💻.</h1>
+
 
 
 
